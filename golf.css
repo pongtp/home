@@ -1,0 +1,27 @@
+/*don't change the padding*/
+body 
+{
+	background-color: lavender;
+	text-align: center;
+	padding: 40px;
+}
+th,td
+{
+	border: solid black 2px;
+	padding: 4px;
+}
+h1 
+{
+color: slate blue;
+text-align: center;
+}
+h2 
+{
+border-bottom: black;
+}
+p 
+{
+font-family: verdana;
+font-size: 15px;
+text-align: center;
+}

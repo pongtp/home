@@ -1,0 +1,35 @@
+/*fix background colour*/
+body 
+{
+	background-color: lavender;
+	text-align: center;
+	padding: 40px;
+}
+.orange_border 
+{
+	border-style: solid;
+	border-color: orange;
+}
+h1 
+{
+	color: slateblue;
+	text-align: center;
+}
+
+h2 
+{
+	padding-bottom: 15px;
+	border-bottom: 1px solid black;
+}
+
+p 
+{
+	font-family: verdana, arial;
+	font-size: 15px;
+}
+
+.drawings
+{
+		margin-right: auto;
+		margin-left: auto;
+}
